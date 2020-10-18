@@ -1,0 +1,17 @@
+
+<div class="cards">
+    
+        <h4 *ngFor = "let todo of todoDetails">
+            <mat-card>
+               Id: {{todo.id}} - <span class="title">{{todo.title | uppercase}}</span> <br>
+         <h5 class="years"> {{todo.date}}</h5><br>
+        {{todo.description}} 
+   
+</mat-card>
+        </h4>
+         
+          </div>
+
+        
+
+ 

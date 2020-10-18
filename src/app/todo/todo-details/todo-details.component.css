@@ -1,0 +1,16 @@
+.cards{
+    width:75%;
+    margin:0 auto;
+}
+mat-card{
+    padding-bottom:0;
+    
+}
+.title{
+    color:#ee6f57;
+    margin:0;
+}
+.years{
+    color:#1f3c88;
+    margin:0;
+}

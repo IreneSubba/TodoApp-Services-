@@ -1,0 +1,21 @@
+h2{
+    margin: 20px auto;
+    font-family: monospace;
+    font-weight: 600;
+    color:#1f3c88;
+    text-align: center;
+    
+    width: 50%;
+}
+
+.cards{
+    width:25%;
+    text-align: center;
+    margin:auto;
+    
+}
+
+mat-card{
+    background-color:#1f3c88;
+    color:white;
+}
