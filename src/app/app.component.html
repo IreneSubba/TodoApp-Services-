@@ -1,1 +1,8 @@
-<app-todo></app-todo>
+<!--<app-todo></app-todo>-->
+<div class = "app-body">
+    <mat-toolbar>
+        <button class="bt" mat-raised-button color="primary" routerLink="/todoList">Todo List</button>
+        <button  class="bt" mat-raised-button color="accent" routerLink="/todoDetails">Todo Details</button>
+    </mat-toolbar>
+    <router-outlet></router-outlet>
+</div>

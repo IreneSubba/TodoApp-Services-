@@ -1,10 +1,11 @@
 .cards{
-    width:75%;
+    width:50%;
     margin:0 auto;
+   
 }
 mat-card{
     padding-bottom:0;
-    
+    background-color: #ecf4f3;
 }
 .title{
     color:#ee6f57;

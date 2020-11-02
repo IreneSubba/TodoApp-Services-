@@ -19,6 +19,7 @@ desc;
 
   addTodo(){
     this.todoServ.createTodo(this.id,this.title,this.year,this.desc)
+    alert("New task added!")
   }
  
   
